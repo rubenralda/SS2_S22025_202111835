@@ -9,4 +9,4 @@ Los datos estan generalmente en bases de datos relacionales que son lentas para 
 Son definiciones a los datos que queremos analizar.
 
 ## Jerarquias
-Son estructuras dentro de una dimension
+Son estructuras dentro de una dimension.
